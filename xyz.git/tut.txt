@@ -1,0 +1,16 @@
+http://www.youtube.com/watch?v=Ld6SwWRD8Qk
+
+http://www.youtube.com/watch?v=vknMgAJqH6Q  //github video
+
+https://unfuddle.com/support/docs/git
+http://www.gitguys.com/topics/whats-the-deal-with-the-git-index/
+
+http://www.gitguys.com/topics/creating-a-shared-repository-users-sharing-the-repository/
+(users on the same server sharing the repository)
+
+http://toroid.org/ams/git-central-repo-howto
+(users on the same server sharing the repository)
+
+http://myphpform.com/php-form-tutorial.php
+
+http://hueniverse.com/oauth/guide/terminology/
