@@ -1,3 +1,6 @@
 [submodule "xyz"]
 	path = xyz
 	url = git://github.com/tarungarg2004/clicklabs/xyz.git
+[submodule "rack"]
+	path = rack
+	url = git://github.com/chneukirchen/rack.git
