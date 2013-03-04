@@ -13,4 +13,4 @@ http://toroid.org/ams/git-central-repo-howto
 
 http://myphpform.com/php-form-tutorial.php
 
-http://hueniverse.com/oauth/guide/terminology/
+http://hueniverse.com/oauth/guide/terminology
